@@ -99,7 +99,7 @@ Against upstream commit `c275ffe`:
 - **Quieter / less bass than Windows.** Windows adds Lenovo/Dolby processing on top; macOS
   has none. A system-wide EQ such as [eqMac](https://github.com/bitgapp/eqMac) helps
   (try +4–6 dB at 60–125 Hz). Linux users of this model report the same gap.
-- **Internal microphone array** (Intel Smart Sound DMIC) does not work.
+- **Internal microphone array** (Intel Smart Sound DMIC) is not handled by this repo. It now works with the companion driver [ThinkBook16p-Gen4-macOS-Microphone](https://github.com/pandariayu/ThinkBook16p-Gen4-macOS-Microphone) (experimental).
 - Sleep/wake behaviour of the amps is not fully validated.
 - The driver publishes many `Cirrus_*` diagnostic properties in IORegistry — handy for bug reports.
 
