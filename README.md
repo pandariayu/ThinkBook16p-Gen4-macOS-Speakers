@@ -5,9 +5,7 @@ running **macOS Tahoe 26.7.3** with OpenCore. The speakers are driven by two
 **Cirrus Logic CS35L41** smart amplifiers on I²C, fed by a **Realtek ALC287** codec.
 Without this, macOS shows only the headphone jack (or "Internal Speakers" that make no sound).
 
-> ⚠️ Experimental, community-made, no warranty. This drives a speaker amplifier with
-> its real protection firmware and your laptop's own factory calibration, but it has
-> been validated on **one machine only**. Keep a known-good EFI on a USB stick before trying it.
+> ⚠️ Experimental, community-made, no warranty.
 
 ## Does it fit my laptop?
 
