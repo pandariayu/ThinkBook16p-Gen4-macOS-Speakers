@@ -1,0 +1,2 @@
+bd86aae24caaee11de692d023fa9bad1fb79cf89fb96b7e251d1a671488771d1  EFI/OC/Kexts/AppleALC.kext/Contents/MacOS/AppleALC
+aa08ec310a0bb409e57bb45a200e4b7399977079a64c304ad540a7579d17ba81  EFI/OC/Kexts/ThinkBookCirrusInit.kext/Contents/MacOS/CirrusAudioFixup
